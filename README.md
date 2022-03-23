@@ -1,7 +1,7 @@
 ### Olá! Me chamo Matheus Benini,
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+<!-- 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200"> -->
 </div>
 Estudante de desenvolvimento web Full-Stack na Trybe!
 Apaixonado por futebol e códigos!
