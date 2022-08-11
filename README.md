@@ -7,7 +7,7 @@ Estudante de desenvolvimento web Full-Stack na Trybe!
 Apaixonado por futebol e códigos!
 <div display="flex" justify-content="center">
   <a href = "mailto:matheubenini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-benini-b6b633219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/mbenini99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div>
   <a href="https://github.com/MatheusBeniniF">
