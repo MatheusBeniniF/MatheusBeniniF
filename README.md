@@ -3,7 +3,7 @@
 	<br>
 <!-- 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200"> -->
 </div>
-Estudante de desenvolvimento web Full-Stack na Trybe!
+Sou desenvolvedor Full-Stack e 
 Apaixonado por futebol e códigos!
 <div display="flex" justify-content="center">
   <a href = "mailto:matheubenini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
