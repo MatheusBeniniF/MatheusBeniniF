@@ -1,4 +1,5 @@
-👋 Olá! Eu sou o Matheus Benini
+<img src="https://readme-typing-svg.herokuapp.com?color=F7DF1E&lines=Olá%2C+sou+Matheus+Benini!;Desenvolvedor+Full+Stack;React%2C+Vue%2C+Node.js+e+AWS" />
+
 💻 Desenvolvedor Full Stack apaixonado por transformar ideias em código.
 ⚙️ Atualmente trabalhando com React, Vue, Node.js e tecnologias em nuvem (AWS).
 ⚽ Apaixonado por futebol, café e desafios técnicos.
@@ -10,4 +11,3 @@
 
 <div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusBeniniF&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBeniniF&layout=compact&langs_count=7&theme=github_dark"/> </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F7DF1E&lines=Olá%2C+sou+Matheus+Benini!;Desenvolvedor+Full+Stack;React%2C+Vue%2C+Node.js+e+AWS" />
