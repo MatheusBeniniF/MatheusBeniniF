@@ -1,13 +1,109 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=F7DF1E&lines=Olá%2C+sou+Matheus+Benini!;Desenvolvedor+Full+Stack;React%2C+Vue%2C+Node.js+e+AWS" />
+<div align="center">
 
-💻 Desenvolvedor Full Stack apaixonado por transformar ideias em código.
-⚙️ Atualmente trabalhando com React, Vue, Node.js e tecnologias em nuvem (AWS).
-⚽ Apaixonado por futebol, café e desafios técnicos.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=F7DF1E&center=true&vCenter=true&width=900&lines=Olá%2C+sou+Matheus+Benini!;Full+Stack+Developer;Backend+Focused+%7C+Node.js+%7C+React+%7C+AWS;Building+Scalable+Systems+with+Code+and+AI" />
 
-📫 Onde me encontrar:
-<div align="left"> <a href="mailto:matheubenini@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/mbenini99/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/MatheusBeniniF" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
-🚀 Tecnologias que uso no dia a dia:
-<div style="display: inline_block"> <img align="center" alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> <img align="center" alt="Vue" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> <img align="center" alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> <img align="center" alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> <img align="center" alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="MongoDB" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> <img align="center" alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> <img align="center" alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> </div>
+</div>
 
-<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusBeniniF&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBeniniF&layout=compact&langs_count=7&theme=github_dark"/> </div>
 
+## 👋 About Me
+
+I’m **Matheus Benini**, a **Full Stack Developer** with **4+ years of experience**, mainly focused on **backend development** using **Node.js**, while also working strongly on the **frontend** with **React, React Native, and Vue.js**.
+
+🌍 Experience working on **international projects (USA)** with multicultural teams and **daily communication in English**.  
+⚙️ Strong background in **system architecture**, **API development**, **performance optimization**, and **cloud-based solutions**.  
+🤖 Passionate about **Artificial Intelligence**, automation, and building reliable, scalable systems.
+
+---
+
+## 🧠 Core Expertise
+
+🚀 **Backend-focused Full Stack Development**  
+🔗 **REST & GraphQL APIs**  
+📊 **SQL & NoSQL Databases**  
+☁️ **Cloud & DevOps (AWS)**  
+🤖 **AI Integration (Python & JS)**  
+🔄 **CI/CD & Automated Testing**  
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Backend
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="50"/>
+</div>
+
+---
+
+### 🎨 Frontend & Mobile
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50"/>
+</div>
+
+---
+
+### 🧩 Languages
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50"/>
+</div>
+
+---
+
+### 🗄️ Databases
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="50"/>
+</div>
+
+---
+
+### ☁️ Cloud & DevOps
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50"/>
+</div>
+
+---
+
+## 🔥 What I Enjoy Working On
+
+- Designing **scalable backend architectures**
+- Building **APIs consumed by web & mobile apps**
+- Improving **performance and reliability**
+- Applying **AI to real-world problems**
+- Cloud-native solutions on **AWS**
+- Clean code, best practices, and continuous improvement
+
+---
+
+## 📫 Let’s Connect
+
+<div align="center">
+  <a href="mailto:matheus_benini@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mbenini99/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/MatheusBeniniF" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+✨ *Always learning, always building, always improving.* ✨
+
+</div>
